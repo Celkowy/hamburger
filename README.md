@@ -1,4 +1,4 @@
 # hamburger
-Simple Slide Out Menu
+Simple slide-out Menu
 
 
